@@ -1,4 +1,8 @@
 ## Hi there 👋
+- 🔭 I’m currently working on INF_04 cerrtificate
+- 🌱 I’m currently learning python/React/JS/C++
+- 🤔 I’m looking for help with nothing! 
+- 📫 How to reach me: vitorusin123@gmail.com
 
 <!--
 **PlatynowyGarnek/PlatynowyGarnek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
