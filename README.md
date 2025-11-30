@@ -1,7 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on FullStack Open cert and TryHackMe certs
-- 🌱 I’m currently learning python/React/JS/C++
-- 🤔 I’m looking for help with nothing! 
+- 🌱 I’m currently learning python/React/JS/PHP
 - 📫 How to reach me: vitorusin123@gmail.com
 
 <!--
